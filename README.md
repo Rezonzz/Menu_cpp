@@ -1,6 +1,6 @@
 # Menu_cpp
 A Restaurant Menu System made using C++
-
+### Screenshots       
 <p align="center">
   <img src="https://user-images.githubusercontent.com/95320065/175753826-5e3ccd3a-be96-4906-815a-63277fb7777b.png">
 </p>
